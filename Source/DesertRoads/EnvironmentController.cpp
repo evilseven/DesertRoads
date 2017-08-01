@@ -6,6 +6,7 @@
 #include "Engine/World.h"
 #include "PaperSpriteComponent.h"
 #include "Materials/MaterialInstanceDynamic.h"
+#include "TimerManager.h"
 
 
 // Sets default values
